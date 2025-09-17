@@ -1,0 +1,9 @@
+{
+  "name": "internadda",
+  "version": "1.0.0",
+  "description": "InternAdda project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}

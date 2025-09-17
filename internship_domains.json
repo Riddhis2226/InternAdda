@@ -1,0 +1,287 @@
+{
+    "domains": [
+        {
+            "domain": "Public Policy & Governance",
+            "subdomains": [
+                "Policy Formulation",
+                "Program Evaluation",
+                "Citizen Services",
+                "Administrative Reforms"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Research",
+                    "MS Office",
+                    "Report Writing"
+                ],
+                "Intermediate": [
+                    "Policy Analysis",
+                    "Public Administration",
+                    "Data Interpretation"
+                ],
+                "Advanced": [
+                    "Governance Frameworks",
+                    "Regulatory Drafting",
+                    "Impact Assessment"
+                ]
+            }
+        },
+        {
+            "domain": "Technology & Data",
+            "subdomains": [
+                "Data Analytics",
+                "Digital Governance",
+                "IT",
+                "Cyber Security",
+                "GIS",
+                "AI & ML"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Python",
+                    "Excel",
+                    "SQL",
+                    "HTML/CSS"
+                ],
+                "Intermediate": [
+                    "Data Visualization (Tableau/Power BI)",
+                    "Networking Basics",
+                    "GIS Tools",
+                    "TensorFlow"
+                ],
+                "Advanced": [
+                    "Deep Learning",
+                    "Cyber Defense",
+                    "Cloud Security",
+                    "Advanced ML Models"
+                ]
+            }
+        },
+        {
+            "domain": "Finance & Economics",
+            "subdomains": [
+                "Financial Inclusion",
+                "Banking & Financial Services",
+                "Public Finance Management",
+                "Economic Policy",
+                "Urban & Rural Planning"
+            ],
+            "skills": {
+                "Beginner": [
+                    "MS Excel",
+                    "Accounting Basics",
+                    "Statistics"
+                ],
+                "Intermediate": [
+                    "Financial Modeling",
+                    "Public Finance Tools",
+                    "GIS in Planning"
+                ],
+                "Advanced": [
+                    "Risk Analysis",
+                    "Econometrics",
+                    "Policy Impact Modeling"
+                ]
+            }
+        },
+        {
+            "domain": "Environment & Science",
+            "subdomains": [
+                "Environmental Management & Law",
+                "Forestry & Wildlife",
+                "Climate Change",
+                "Renewable Energy",
+                "Water Resources",
+                "Agriculture",
+                "Botany",
+                "Zoology",
+                "Chemistry",
+                "Physics",
+                "Geology",
+                "Biotechnology",
+                "Marine Biology"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Lab Work",
+                    "Field Surveys",
+                    "Basic Biology"
+                ],
+                "Intermediate": [
+                    "Environmental Regulations",
+                    "Renewable Energy Tech",
+                    "GIS for Environment"
+                ],
+                "Advanced": [
+                    "Climate Modeling",
+                    "Genetic Engineering",
+                    "Hydrology",
+                    "Advanced Lab Techniques"
+                ]
+            }
+        },
+        {
+            "domain": "Social & Human Development",
+            "subdomains": [
+                "Health & Family Welfare",
+                "Education & Skills",
+                "Culture & Heritage",
+                "Sports & Youth",
+                "Urban Development",
+                "Social Justice",
+                "MSMEs"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Communication",
+                    "Data Entry",
+                    "Basic Research"
+                ],
+                "Intermediate": [
+                    "Training Programs",
+                    "Project Management",
+                    "Policy Awareness"
+                ],
+                "Advanced": [
+                    "Impact Studies",
+                    "Curriculum Design",
+                    "Social Work Frameworks"
+                ]
+            }
+        },
+        {
+            "domain": "Law & Justice",
+            "subdomains": [
+                "Legal Affairs",
+                "Corporate Law",
+                "Environmental Law",
+                "International Law"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Legal Research",
+                    "Case Summaries",
+                    "MS Word"
+                ],
+                "Intermediate": [
+                    "Drafting Legal Docs",
+                    "Compliance",
+                    "Moot Court"
+                ],
+                "Advanced": [
+                    "Arbitration",
+                    "Cross-Border Laws",
+                    "Litigation Practice"
+                ]
+            }
+        },
+        {
+            "domain": "Infrastructure & Engineering",
+            "subdomains": [
+                "Civil Engineering",
+                "Mechanical Engineering",
+                "Electrical Engineering",
+                "Mining & Metallurgy",
+                "Transportation",
+                "Urban Planning",
+                "Logistics & Supply Chain",
+                "Manufacturing"
+            ],
+            "skills": {
+                "Beginner": [
+                    "AutoCAD",
+                    "Basic Circuit Design",
+                    "Workshop Skills"
+                ],
+                "Intermediate": [
+                    "Project Planning",
+                    "PLC Programming",
+                    "Supply Chain Tools"
+                ],
+                "Advanced": [
+                    "Smart Manufacturing",
+                    "Structural Design",
+                    "Transport Modeling"
+                ]
+            }
+        },
+        {
+            "domain": "Communications & Media",
+            "subdomains": [
+                "Mass Communication",
+                "Public Relations",
+                "Media Management",
+                "Graphic Design & Content Creation"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Writing",
+                    "Canva",
+                    "Social Media"
+                ],
+                "Intermediate": [
+                    "Video Editing",
+                    "PR Tools",
+                    "Adobe Suite"
+                ],
+                "Advanced": [
+                    "Media Strategy",
+                    "Campaign Management",
+                    "Brand Consulting"
+                ]
+            }
+        },
+        {
+            "domain": "Tourism & Hospitality",
+            "subdomains": [
+                "Tourism Development",
+                "Hospitality Management",
+                "Cultural Promotion",
+                "Travel & Aviation"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Customer Service",
+                    "MS Office",
+                    "Communication"
+                ],
+                "Intermediate": [
+                    "Event Planning",
+                    "Travel Tech",
+                    "Ticketing Systems"
+                ],
+                "Advanced": [
+                    "Hospitality Analytics",
+                    "Aviation Management",
+                    "Tourism Policy"
+                ]
+            }
+        },
+        {
+            "domain": "Other Key Sectors",
+            "subdomains": [
+                "Retail & Consumer Goods",
+                "Gems & Jewellery",
+                "Textiles & Apparel",
+                "Consulting Services"
+            ],
+            "skills": {
+                "Beginner": [
+                    "Sales Basics",
+                    "MS Excel",
+                    "Product Knowledge"
+                ],
+                "Intermediate": [
+                    "Market Research",
+                    "Supply Chain Basics",
+                    "ERP Systems"
+                ],
+                "Advanced": [
+                    "Consulting Frameworks",
+                    "Fashion Tech",
+                    "Business Strategy"
+                ]
+            }
+        }
+    ]
+}
